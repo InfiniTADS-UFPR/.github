@@ -14,4 +14,10 @@ Somos um grupo dedicado a explorar, aprender e desenvolver soluções tecnológi
 
 - Leonardo Felipe Salgado [@Salgado2004](https://github.com/salgado2004)
 
+<a href="https://github.com/InfiniTADS-UFPR/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=InfiniTADS-UFPR/.github" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 #### &copy; UFPR 2023-2024
