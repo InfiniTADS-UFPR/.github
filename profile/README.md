@@ -2,9 +2,9 @@
 
 ## Bem-vindo(a)!
 
-Este é o repositório oficial da INFINITADS, uma equipe de alunos do curso de Análise e Desenvolvimento de Sistemas da UFPR. 
+Este é o repositório oficial da INFINITADS, uma comunidade de alunos do curso de Análise e Desenvolvimento de Sistemas da UFPR. 
 
-Aqui organizamos nossos trabalhos em grupo, projetos e atividades acadêmicas. 👨‍🎓📘
+Aqui organizamos e trocamos conhecimento sobre trabalhos, projetos e atividades acadêmicas. 👨‍🎓📘
 
 ## Sobre Nós
 
