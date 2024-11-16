@@ -15,6 +15,11 @@ Somos um grupo dedicado a explorar, aprender e desenvolver soluções tecnológi
 
 ## Contribuição
 
+### Como contribuir
+Para contribuir com a comunidade, acesse nossa página [Contribuindo](https://github.com/InfiniTADS-UFPR/.github/blob/eb48ef31fff57c99a8d8520da4e80a76c9311549/CONTRIBUTING.md).
+
+### Contribuidores
+
 - Leonardo Felipe Salgado [@Salgado2004](https://github.com/salgado2004)
 - Alisson Gabriel Santos [@AlissonGSantos](https://github.com/AlissonGSantos)
 - Mateus Bazan Bespalhok [(@matbaaz)](https://github.com/matbaaz)
