@@ -10,6 +10,9 @@ Aqui organizamos e trocamos conhecimento sobre trabalhos, projetos e atividades 
 
 Somos um grupo dedicado a explorar, aprender e desenvolver soluções tecnológicas. Nosso objetivo é aplicar os conhecimentos adquiridos em sala de aula em projetos práticos, colaborativos e inovadores.
 
+> [!warning]
+> **Aviso Importante**: Esta comunidade tem como objetivo apoiar o aprendizado e a troca de conhecimento entre estudantes. Não incentivamos ou toleramos qualquer forma de trapaça ou comportamento desleal nas aulas. Todo o material disponível aqui é projetado para **auxiliar** no seu aprendizado e **ampliar** seu conhecimento.
+
 ## Contribuição
 
 - Leonardo Felipe Salgado [@Salgado2004](https://github.com/salgado2004)
