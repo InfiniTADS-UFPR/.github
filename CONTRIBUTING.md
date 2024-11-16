@@ -58,5 +58,5 @@ Você também pode ajudar revisando pull requests de outros colaboradores. Dê f
 ## Suporte
 
 Se precisar de ajuda, você pode:
-- Perguntar em nossas [discussões 💬]()
+- Perguntar em nossas [discussões 💬](https://github.com/orgs/InfiniTADS-UFPR/discussions)
 
