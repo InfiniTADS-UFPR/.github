@@ -1,5 +1,8 @@
 # Código de conduta do Infinitads 💞
 
+> [!warning]
+> **Aviso Importante**: Esta comunidade tem como objetivo apoiar o aprendizado e a troca de conhecimento entre estudantes. Não incentivamos ou toleramos qualquer forma de trapaça ou comportamento desleal nas aulas. Todo o material disponível aqui é projetado para **auxiliar** no seu aprendizado e **ampliar** seu conhecimento.
+
 ## 1. Propósito
 Um objetivo principal da comunidade Infinitads é ser inclusiva para o maior número de estudantes do TADS, com as origens mais variadas e diversas possíveis. Como tal, estamos comprometidos em fornecer um ambiente amigável, seguro e acolhedor para todos, independentemente de gênero, orientação sexual, capacidade, etnia, status socioeconômico e religião (ou falta dela).
 
@@ -9,9 +12,6 @@ Convidamos todos aqueles que participam da Infinitads a nos ajudar a criar exper
 
 ## 2. Comportamento esperado
 Os seguintes comportamentos são esperados e solicitados de todos os membros da comunidade:
-
-> [!warning]
-> **Aviso Importante**: Esta comunidade tem como objetivo apoiar o aprendizado e a troca de conhecimento entre estudantes. Não incentivamos ou toleramos qualquer forma de trapaça ou comportamento desleal nas aulas. Todo o material disponível aqui é projetado para **auxiliar** no seu aprendizado e **ampliar** seu conhecimento.
 
 - Participe de forma autêntica e ativa. Ao fazer isso, você contribui para a saúde e longevidade desta comunidade.
 - Ajude outros estudantes compartilhando materiais de estudo, dicas e experiências que possam beneficiar a todos.
