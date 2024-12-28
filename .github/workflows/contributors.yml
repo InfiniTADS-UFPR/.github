@@ -13,3 +13,4 @@ jobs:
       - uses: salgado2004/contributors-chart-action@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          contributions: 'org'
