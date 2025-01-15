@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: salgado2004/contributors-chart-action@main
+      - uses: salgado2004/contributors-chart-action@development
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           contributions: 'org'
