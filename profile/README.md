@@ -1,5 +1,4 @@
-# INFINITADS - UFPR 🚀
-
+![infinitads-horizontal](https://github.com/user-attachments/assets/3bfbb52a-7fa0-462e-a968-6532766a62ba)
 ## Bem-vindo(a)!
 
 Este é o repositório oficial da INFINITADS, uma comunidade de alunos do curso de Análise e Desenvolvimento de Sistemas da UFPR. 
